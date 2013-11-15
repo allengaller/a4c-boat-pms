@@ -1,4 +1,19 @@
-boat-pms
-========
+# Boat - Better Project, Better Life #
 
-Painless Project Management.
+About
+------
+
+Boat is a painless project management system.
+
+Features
+--------
+
+
+
+Guide
+-----
+
+
+
+Donation
+--------
