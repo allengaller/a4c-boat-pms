@@ -1,4 +1,4 @@
-# Boat - Better Project, Better Life #
+# Boat - Painless Project Management #
 
 About
 ------
